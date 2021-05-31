@@ -4,7 +4,7 @@
 #include <string>
 
 // Custom
-#include "calculator/calculator.hpp"
+#include "include/calculator/calculator.hpp"
 
 int main()
 {
