@@ -20,7 +20,6 @@ int main()
 	assert(calc.compute("-2+2") == 0);
 	
 	std::cout << "Tests completed" << std::endl;
-
 	//-------------do not write code after this line----------------
 	std::cout << std::endl;
    return EXIT_SUCCESS;
