@@ -22,5 +22,5 @@ int main()
 	std::cout << "Tests completed" << std::endl;
 	//-------------do not write code after this line----------------
 	std::cout << std::endl;
-   return EXIT_SUCCESS;
+   return 0;
 }
