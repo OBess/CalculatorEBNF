@@ -1,2 +1,2 @@
 # CalculatorEBNF
-Simple homework with EBNF
+Simple calculator with EBNF algorithm
